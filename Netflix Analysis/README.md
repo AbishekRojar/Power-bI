@@ -45,9 +45,6 @@ The dataset contains the following key columns:
 
 ---
 
-## 📷 Dashboard Preview
-*(Insert a screenshot of your dashboard here)*  
-
 ---
 
 ## 🚀 How to View
